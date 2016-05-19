@@ -2,8 +2,8 @@
 # @Author: Tasdik Rahman
 # @Date:   2016-05-18 20:21:52
 # @Last Modified by:   Tasdik Rahman
-# @Last Modified time: 2016-05-18 22:47:46
-# @GPLv3 License
+# @Last Modified time: 2016-05-19 10:10:51
+# @MIT License
 # @http://tasdikrahman.me
 
 """
@@ -33,6 +33,7 @@ import sys
 import random
 import json
 
+from exceptions import NegativeInput
 
 class MACGen(object):
 
@@ -41,7 +42,10 @@ class MACGen(object):
         initializes the number of devices for which thge MAC address is to
         be generated
         """
-        self.devices = number
+        if number < 0:
+            raise NegativeInput("Number of devices cannot be negative")
+        else:
+            self.devices = number
 
     def _randomMAC(self):
         """
@@ -107,5 +111,13 @@ class MACGen(object):
 
 if __name__ == '__main__':
     # takes the argument (number of devices) passed from the command line
-    MACObject = MACGen(int(sys.argv[1]))
-    MACObject.generate()
+
+    """checking whether the user has passed any command line arguments or not
+    and raising appropriate error message"""
+    try:
+        devices_num = int(sys.argv[1])
+        MACObject = MACGen(devices_num)
+        MACObject.generate()
+    except IndexError as e:
+        exception_msg = "You did not specify the number of devices for generating MAC addresses"
+        raise Exception(exception_msg).with_traceback(e.__traceback__)

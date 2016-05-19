@@ -1,0 +1,154 @@
+{
+    "device_data": [
+        {
+            "device_id": 0,
+            "ethernet_mac_id": "01:18:3f:11:71:7f",
+            "wifi_mac_id": "01:18:3f:26:b2:8c"
+        },
+        {
+            "device_id": 1,
+            "ethernet_mac_id": "01:18:3f:0a:2b:48",
+            "wifi_mac_id": "00:16:3e:3f:60:c0"
+        },
+        {
+            "device_id": 2,
+            "ethernet_mac_id": "01:18:3f:15:aa:f2",
+            "wifi_mac_id": "00:16:3e:64:02:5b"
+        },
+        {
+            "device_id": 3,
+            "ethernet_mac_id": "01:18:3f:09:2f:90",
+            "wifi_mac_id": "00:16:3e:29:6c:5a"
+        },
+        {
+            "device_id": 4,
+            "ethernet_mac_id": "01:18:3f:15:ce:6f",
+            "wifi_mac_id": "00:16:3e:60:f0:81"
+        },
+        {
+            "device_id": 5,
+            "ethernet_mac_id": "00:16:3e:2e:85:79",
+            "wifi_mac_id": "00:16:3e:62:28:74"
+        },
+        {
+            "device_id": 6,
+            "ethernet_mac_id": "00:16:3e:3d:85:3f",
+            "wifi_mac_id": "00:16:3e:65:d2:fc"
+        },
+        {
+            "device_id": 7,
+            "ethernet_mac_id": "01:18:3f:04:8a:c9",
+            "wifi_mac_id": "00:16:3e:77:08:3a"
+        },
+        {
+            "device_id": 8,
+            "ethernet_mac_id": "01:18:3f:14:21:97",
+            "wifi_mac_id": "01:18:3f:2b:5c:f2"
+        },
+        {
+            "device_id": 9,
+            "ethernet_mac_id": "00:16:3e:1e:a0:92",
+            "wifi_mac_id": "00:16:3e:14:ab:1b"
+        },
+        {
+            "device_id": 10,
+            "ethernet_mac_id": "00:16:3e:50:c5:19",
+            "wifi_mac_id": "00:16:3e:13:1f:64"
+        },
+        {
+            "device_id": 11,
+            "ethernet_mac_id": "00:16:3e:59:08:08",
+            "wifi_mac_id": "01:18:3f:02:13:43"
+        },
+        {
+            "device_id": 12,
+            "ethernet_mac_id": "00:16:3e:59:f7:e8",
+            "wifi_mac_id": "00:16:3e:13:f4:bc"
+        },
+        {
+            "device_id": 13,
+            "ethernet_mac_id": "00:16:3e:48:67:e7",
+            "wifi_mac_id": "01:18:3f:28:6d:44"
+        },
+        {
+            "device_id": 14,
+            "ethernet_mac_id": "01:18:3f:11:25:cf",
+            "wifi_mac_id": "00:16:3e:01:af:30"
+        },
+        {
+            "device_id": 15,
+            "ethernet_mac_id": "01:18:3f:1f:19:a7",
+            "wifi_mac_id": "01:18:3f:02:2c:62"
+        },
+        {
+            "device_id": 16,
+            "ethernet_mac_id": "01:18:3f:2d:81:f9",
+            "wifi_mac_id": "00:16:3e:6f:74:29"
+        },
+        {
+            "device_id": 17,
+            "ethernet_mac_id": "01:18:3f:1e:ce:1e",
+            "wifi_mac_id": "00:16:3e:2d:3c:ff"
+        },
+        {
+            "device_id": 18,
+            "ethernet_mac_id": "00:16:3e:5a:73:2f",
+            "wifi_mac_id": "00:16:3e:0e:75:53"
+        },
+        {
+            "device_id": 19,
+            "ethernet_mac_id": "01:18:3f:22:a3:55",
+            "wifi_mac_id": "00:16:3e:23:e2:20"
+        },
+        {
+            "device_id": 20,
+            "ethernet_mac_id": "00:16:3e:08:1a:fb",
+            "wifi_mac_id": "01:18:3f:1d:ea:32"
+        },
+        {
+            "device_id": 21,
+            "ethernet_mac_id": "01:18:3f:16:4b:ce",
+            "wifi_mac_id": "00:16:3e:15:46:6c"
+        },
+        {
+            "device_id": 22,
+            "ethernet_mac_id": "01:18:3f:29:f0:79",
+            "wifi_mac_id": "00:16:3e:0d:15:16"
+        },
+        {
+            "device_id": 23,
+            "ethernet_mac_id": "01:18:3f:1f:6a:c9",
+            "wifi_mac_id": "00:16:3e:41:d4:b7"
+        },
+        {
+            "device_id": 24,
+            "ethernet_mac_id": "00:16:3e:64:bb:3c",
+            "wifi_mac_id": "01:18:3f:12:1e:1f"
+        },
+        {
+            "device_id": 25,
+            "ethernet_mac_id": "01:18:3f:0b:6a:c8",
+            "wifi_mac_id": "00:16:3e:28:cd:2a"
+        },
+        {
+            "device_id": 26,
+            "ethernet_mac_id": "01:18:3f:0b:c0:86",
+            "wifi_mac_id": "00:16:3e:5f:71:9a"
+        },
+        {
+            "device_id": 27,
+            "ethernet_mac_id": "00:16:3e:04:b4:15",
+            "wifi_mac_id": "00:16:3e:7b:ef:f0"
+        },
+        {
+            "device_id": 28,
+            "ethernet_mac_id": "00:16:3e:79:e7:aa",
+            "wifi_mac_id": "00:16:3e:01:31:26"
+        },
+        {
+            "device_id": 29,
+            "ethernet_mac_id": "01:18:3f:20:7e:69",
+            "wifi_mac_id": "01:18:3f:23:43:48"
+        }
+    ]
+}
