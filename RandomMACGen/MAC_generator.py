@@ -2,7 +2,7 @@
 # @Author: Tasdik Rahman
 # @Date:   2016-05-18 20:21:52
 # @Last Modified by:   Tasdik Rahman
-# @Last Modified time: 2016-05-19 10:10:51
+# @Last Modified time: 2016-05-19 10:59:36
 # @MIT License
 # @http://tasdikrahman.me
 
@@ -83,7 +83,9 @@ class MACGen(object):
         """
 
         data_list = []
-        for ID in range(self.devices):
+        range_value = range(self.devices + 1)
+
+        for ID in range_value[1:]:
             dict_data = {
                 "device_id": ID,
                 "wifi_mac_id": self._get_mac_address(),
