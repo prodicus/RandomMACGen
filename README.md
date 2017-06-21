@@ -69,3 +69,8 @@ device_id => 12 : wifi-mac => 00:16:3e:13:f4:bc : ethernet-mac => 00:16:3e:59:f7
 MIT Licensed © 2016 by [Tasdik Rahman](http://tasdikrahman.me)
 
 You can find a copy of the License at the [license file](https://github.com/prodicus/RandomMACGen/blob/master/LICENSE)
+
+| £ (GBP) | <a href="https://transferwise.com/pay/d804d854-6862-4127-afdd-4687d64cbd28" target="_blank"><img src="http://i.imgur.com/ARJfowA.png" alt="Donate via TransferWise!" title="Donate via TransferWise!" /></a> |
+|:-------------------------------------------:|:-------------------------------------------------------------:|
+| € Euros | <a href="https://transferwise.com/pay/64c586e3-ec99-4be8-af0b-59241f7b9b79" target="_blank"><img src="http://i.imgur.com/ARJfowA.png" alt="Donate via TransferWise!" title="Donate via TransferWise!" /></a> |
+| ₹ (INR)  | <a href="https://www.instamojo.com/@tasdikrahman" target="_blank"><img src="https://www.instamojo.com/blog/wp-content/uploads/2017/01/instamojo-91.png" alt="Donate via instamojo" title="Donate via instamojo" /></a> | 
